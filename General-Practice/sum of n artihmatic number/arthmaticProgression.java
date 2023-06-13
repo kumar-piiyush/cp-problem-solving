@@ -2,7 +2,7 @@
 // if d = 0, it is sum of n consecutive natural numbers
 
 import java.util.*;
-public class Main{
+public class arthmaticProgression{
     public static int getSum(int n, int d){
         
         int ans;

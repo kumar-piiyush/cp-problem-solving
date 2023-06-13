@@ -1,6 +1,7 @@
 {
   "java.project.sourcePaths": [
     "General-Practice/leapYear",
-    "General-Practice/find last digit of a number/countDigits"
+    "General-Practice/find last digit of a number/countDigits",
+    "General-Practice/Patterns/solidPattern"
   ]
 }

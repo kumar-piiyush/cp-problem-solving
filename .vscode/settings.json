@@ -1,6 +1,6 @@
 {
   "java.project.sourcePaths": [
-    "General-Practice/largest of 3 numbers.java",
-    "General-Practice/leapYear"
+    "General-Practice/leapYear",
+    "General-Practice/find last digit of a number/countDigits"
   ]
 }

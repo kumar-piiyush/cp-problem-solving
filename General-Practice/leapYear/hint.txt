@@ -1,0 +1,2 @@
+A year which is divisible by 4 or divisible by 400 are leap year 
+Note: years which is only divisible only by 100 and not by 400 are not leap year.

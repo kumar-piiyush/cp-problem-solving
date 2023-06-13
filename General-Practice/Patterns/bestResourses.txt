@@ -1,0 +1,8 @@
+Here are few best resourses to master pattern questions:
+
+1. https://youtu.be/lsOOs5J8ycw
+
+
+Note in nested loop :
+    1st loop represents rows
+    2nd loop represents columns

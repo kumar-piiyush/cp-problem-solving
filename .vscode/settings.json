@@ -2,9 +2,10 @@
   "java.project.sourcePaths": [
     "General-Practice/leapYear",
     "General-Practice/find last digit of a number/countDigits",
+    "General-Practice/Patterns/trianglePattern",
     "General-Practice/Patterns/solidPattern",
     "General-Practice/Patterns/pyramidPattern",
     "General-Practice/Patterns/BorderPattern",
-    "General-Practice/Patterns/trianglePattern"
+    "General-Practice/Patterns/invertedTrianglePattern"
   ]
 }

@@ -1,15 +1,15 @@
 import java.util.Scanner;
 
-public class pyramidPattern {
+public class leftSidedTriangle {
     public static void main(String[] args) {
-        System.out.println("Enter height of pyramid: ");
+        System.out.println("Enter n: ");
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
 
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
                 if(i+j>=n-1){
-                    System.out.print("* ");
+                    System.out.print("*");
                 }
                 else{
                     System.out.print(" ");

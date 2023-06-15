@@ -5,8 +5,9 @@
     "General-Practice/Patterns/trianglePattern",
     "General-Practice/Patterns/solidPattern",
     "General-Practice/Patterns/pyramidPattern",
+    "General-Practice/Patterns/leftSidedTrianglePattern",
     "General-Practice/Patterns/invertedTrianglePattern",
     "General-Practice/Patterns/BorderPattern",
-    "General-Practice/Patterns/leftSidedTrianglePattern"
+    "General-Practice/Arrays/Basic array"
   ]
 }

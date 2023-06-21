@@ -9,5 +9,9 @@
     "General-Practice/Patterns/invertedTrianglePattern",
     "General-Practice/Patterns/BorderPattern",
     "General-Practice/Arrays/Basic array"
-  ]
+  ],
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "python.formatting.provider": "none"
 }

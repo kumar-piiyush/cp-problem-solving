@@ -14,6 +14,11 @@ class Main2 extends Thread{
             System.out.println(people);
         }
         
+        try{
+            Thread.sleep(1000);
+        }catch(InterruptedException e){
+            e.printStackTrace();
+        }
  }  
  
 }  
@@ -31,6 +36,11 @@ class Main extends Thread{
 
          for (String items : friends) {
             System.out.println(items);
+        }
+        
+        try{Thread.sleep(5000);}
+        catch(InterruptedException e){
+            //  e.printStackTrace();
         }
  }  
  

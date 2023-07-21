@@ -3,7 +3,7 @@ import java.util.*;
 class Main2 extends Thread{  
  public void run(){  
      
-       Collection<String> competency = new ArrayList<String>(5);
+       LinkedList<String> competency = new LinkedList<String>(5);
         competency.add("Piyush");
         competency.add("Sharan");
         competency.add("Akash");
@@ -26,7 +26,7 @@ class Main2 extends Thread{
 class Main extends Thread{  
  public void run(){  
      
-        Collection<String> friends = new ArrayList<String>(5);
+        LinkedList<String> friends = new LinkedList<String>(5);
         
         friends.add("Piyushhhhh");
         friends.add("Sharannn");
